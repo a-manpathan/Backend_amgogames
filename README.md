@@ -1,4 +1,4 @@
-Of course. It's a great idea to include instructions for both setups. Here is the updated `README.md` with the new section for running the project locally.
+
 
 # Backend Engineer Hiring Test Submission
 
